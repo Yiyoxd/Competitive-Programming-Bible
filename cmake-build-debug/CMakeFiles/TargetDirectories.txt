@@ -1,0 +1,3 @@
+C:/Users/yiyoa/OneDrive/Documentos/Competitive Programming Bible/cmake-build-debug/CMakeFiles/Competitive_Programming_Bible.dir
+C:/Users/yiyoa/OneDrive/Documentos/Competitive Programming Bible/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yiyoa/OneDrive/Documentos/Competitive Programming Bible/cmake-build-debug/CMakeFiles/rebuild_cache.dir
