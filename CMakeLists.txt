@@ -3,5 +3,5 @@ project(Competitive_Programming_Bible)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Competitive_Programming_Bible main.cpp
-        Math/SieveOfEratosthenes.cpp)
+add_library(Competitive_Programming_Bible STATIC library.cpp
+        Math/Number_Theory/SieveOfEratosthenes.cpp)
